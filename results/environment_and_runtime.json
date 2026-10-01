@@ -1,0 +1,26 @@
+{
+  "config": {
+    "training_scenarios": 200,
+    "retained_scenarios": 5,
+    "out_of_sample_scenarios": 1000,
+    "alpha": 0.95,
+    "risk_aversion": 0.2,
+    "bid_grid_step_mw": 1.0,
+    "random_seed_training": 2026092601,
+    "random_seed_evaluation": 2026092602,
+    "renewable_error_std": 0.16,
+    "load_error_std": 0.035,
+    "price_error_std": 0.1,
+    "ar1_coefficient": 0.72
+  },
+  "source_data": "data/multi_scenario_power_market_dataset.csv",
+  "source_rows": 43800,
+  "baseline_rows": 8760,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "total_wall_time_seconds": 4.834439099999145,
+  "mean_daily_wall_time_seconds": 0.009372357812340129,
+  "max_daily_wall_time_seconds": 0.01505180005915463
+}

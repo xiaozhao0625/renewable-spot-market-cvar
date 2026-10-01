@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Times New Roman" font-size="18" fill="#000">
+<line x1="145" y1="475" x2="935" y2="475" stroke="#000" stroke-width="1.4"/>
+<line x1="145" y1="55" x2="145" y2="475" stroke="#000" stroke-width="1.4"/>
+<line x1="145" y1="475.00" x2="935" y2="475.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="481.00" text-anchor="end">29.10M</text>
+<line x1="145" y1="391.00" x2="935" y2="391.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="397.00" text-anchor="end">30.63M</text>
+<line x1="145" y1="307.00" x2="935" y2="307.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="313.00" text-anchor="end">32.15M</text>
+<line x1="145" y1="223.00" x2="935" y2="223.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="229.00" text-anchor="end">33.68M</text>
+<line x1="145" y1="139.00" x2="935" y2="139.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="145.00" text-anchor="end">35.21M</text>
+<line x1="145" y1="55.00" x2="935" y2="55.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="61.00" text-anchor="end">36.73M</text>
+<line x1="145.00" y1="475" x2="145.00" y2="481" stroke="#000"/>
+<text x="145.00" y="504" text-anchor="middle">1</text>
+<line x1="216.82" y1="475" x2="216.82" y2="481" stroke="#000"/>
+<text x="216.82" y="504" text-anchor="middle">2</text>
+<line x1="288.64" y1="475" x2="288.64" y2="481" stroke="#000"/>
+<text x="288.64" y="504" text-anchor="middle">3</text>
+<line x1="360.45" y1="475" x2="360.45" y2="481" stroke="#000"/>
+<text x="360.45" y="504" text-anchor="middle">4</text>
+<line x1="432.27" y1="475" x2="432.27" y2="481" stroke="#000"/>
+<text x="432.27" y="504" text-anchor="middle">5</text>
+<line x1="504.09" y1="475" x2="504.09" y2="481" stroke="#000"/>
+<text x="504.09" y="504" text-anchor="middle">6</text>
+<line x1="575.91" y1="475" x2="575.91" y2="481" stroke="#000"/>
+<text x="575.91" y="504" text-anchor="middle">7</text>
+<line x1="647.73" y1="475" x2="647.73" y2="481" stroke="#000"/>
+<text x="647.73" y="504" text-anchor="middle">8</text>
+<line x1="719.55" y1="475" x2="719.55" y2="481" stroke="#000"/>
+<text x="719.55" y="504" text-anchor="middle">9</text>
+<line x1="791.36" y1="475" x2="791.36" y2="481" stroke="#000"/>
+<text x="791.36" y="504" text-anchor="middle">10</text>
+<line x1="863.18" y1="475" x2="863.18" y2="481" stroke="#000"/>
+<text x="863.18" y="504" text-anchor="middle">11</text>
+<line x1="935.00" y1="475" x2="935.00" y2="481" stroke="#000"/>
+<text x="935.00" y="504" text-anchor="middle">12</text>
+<polyline points="145.00,84.05 216.82,297.33 288.64,170.01 360.45,304.45 432.27,320.54 504.09,452.50 575.91,435.28 647.73,434.11 719.55,413.54 791.36,257.28 863.18,240.45 935.00,122.20" fill="none" stroke="#1f77b4" stroke-width="3"/>
+<line x1="163" y1="22" x2="201" y2="22" stroke="#1f77b4" stroke-width="3"/>
+<text x="211" y="28">Deterministic baseline</text>
+<polyline points="145.00,77.50 216.82,290.00 288.64,156.07 360.45,288.11 432.27,300.00 504.09,432.98 575.91,420.23 647.73,424.01 719.55,406.65 791.36,251.96 863.18,235.93 935.00,117.07" fill="none" stroke="#d62728" stroke-width="3"/>
+<line x1="548" y1="22" x2="586" y2="22" stroke="#d62728" stroke-width="3"/>
+<text x="596" y="28">Risk-neutral stochastic</text>
+<polyline points="145.00,77.96 216.82,290.58 288.64,157.23 360.45,289.00 432.27,300.53 504.09,433.39 575.91,420.69 647.73,424.89 719.55,407.30 791.36,252.46 863.18,236.85 935.00,117.67" fill="none" stroke="#2ca02c" stroke-width="3"/>
+<line x1="163" y1="46" x2="201" y2="46" stroke="#2ca02c" stroke-width="3"/>
+<text x="211" y="52">Proposed CVaR</text>
+<text x="540.0" y="555" text-anchor="middle">Month</text>
+<text x="28" y="265.0" text-anchor="middle" transform="rotate(-90 28 265.0)">Out-of-sample monthly net revenue (Yuan)</text>
+</g></svg>

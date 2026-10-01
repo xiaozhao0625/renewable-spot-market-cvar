@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Times New Roman" font-size="18" fill="#000">
+<line x1="145" y1="475" x2="935" y2="475" stroke="#000" stroke-width="1.4"/>
+<line x1="145" y1="55" x2="145" y2="475" stroke="#000" stroke-width="1.4"/>
+<line x1="145" y1="475.00" x2="935" y2="475.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="481.00" text-anchor="end">0.912</text>
+<line x1="145" y1="391.00" x2="935" y2="391.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="397.00" text-anchor="end">0.942</text>
+<line x1="145" y1="307.00" x2="935" y2="307.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="313.00" text-anchor="end">0.971</text>
+<line x1="145" y1="223.00" x2="935" y2="223.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="229.00" text-anchor="end">1.001</text>
+<line x1="145" y1="139.00" x2="935" y2="139.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="145.00" text-anchor="end">1.030</text>
+<line x1="145" y1="55.00" x2="935" y2="55.00" stroke="#d9d9d9" stroke-width="1"/>
+<text x="133" y="61.00" text-anchor="end">1.060</text>
+<line x1="145.00" y1="475" x2="145.00" y2="481" stroke="#000"/>
+<text x="145.00" y="504" text-anchor="middle">0</text>
+<line x1="194.38" y1="475" x2="194.38" y2="481" stroke="#000"/>
+<text x="194.38" y="504" text-anchor="middle">0.05</text>
+<line x1="243.75" y1="475" x2="243.75" y2="481" stroke="#000"/>
+<text x="243.75" y="504" text-anchor="middle">0.1</text>
+<line x1="342.50" y1="475" x2="342.50" y2="481" stroke="#000"/>
+<text x="342.50" y="504" text-anchor="middle">0.2</text>
+<line x1="540.00" y1="475" x2="540.00" y2="481" stroke="#000"/>
+<text x="540.00" y="504" text-anchor="middle">0.4</text>
+<line x1="935.00" y1="475" x2="935.00" y2="481" stroke="#000"/>
+<text x="935.00" y="504" text-anchor="middle">0.8</text>
+<polyline points="145.00,225.42 194.38,225.22 243.75,225.33 342.50,226.45 540.00,227.53 935.00,227.86" fill="none" stroke="#1f77b4" stroke-width="3"/>
+<line x1="163" y1="22" x2="201" y2="22" stroke="#1f77b4" stroke-width="3"/>
+<text x="211" y="28">Normalized revenue</text>
+<polyline points="145.00,225.42 194.38,236.15 243.75,249.67 342.50,289.99 540.00,304.78 935.00,301.25" fill="none" stroke="#d62728" stroke-width="3"/>
+<line x1="548" y1="22" x2="586" y2="22" stroke="#d62728" stroke-width="3"/>
+<text x="596" y="28">Normalized CVaR95</text>
+<text x="540.0" y="555" text-anchor="middle">Risk aversion coefficient</text>
+<text x="28" y="265.0" text-anchor="middle" transform="rotate(-90 28 265.0)">Normalized out-of-sample metric</text>
+</g></svg>
